@@ -7,3 +7,6 @@ mkdir bbdd prog si
 touch ./prog/index.php
 3.
 cp 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/prog/index.php' 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/bbdd/consultas.sql'
+4. 
+$ mkdir -p 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/si/git'
+5.
