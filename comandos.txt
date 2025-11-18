@@ -8,5 +8,10 @@ touch ./prog/index.php
 3.
 cp 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/prog/index.php' 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/bbdd/consultas.sql'
 4. 
-$ mkdir -p 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/si/git'
+mkdir -p 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/si/git'
 5.
+cd ./examenApellido/si/git
+6.
+$ touch 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/login'
+7.
+$ rm 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/bbdd/consultas.sql'
