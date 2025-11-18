@@ -3,3 +3,7 @@ comandos
 mkdir examenApellido
 cd ./examenApellido
 mkdir bbdd prog si 
+2. 
+touch ./prog/index.php
+3.
+cp 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/prog/index.php' 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/bbdd/consultas.sql'
