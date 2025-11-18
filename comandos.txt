@@ -15,3 +15,7 @@ cd ./examenApellido/si/git
 $ touch 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/login'
 7.
 $ rm 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/bbdd/consultas.sql'
+8.
+mv 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/prog/index.php' 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/si/git/index2.php'
+9.
+echo "select * from clientes" >> 'c:/Users/enric/Desktop/examen/examenApellido/examenApellido/login'
