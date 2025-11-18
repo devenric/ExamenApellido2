@@ -1,2 +1,5 @@
 comandos
 1.
+mkdir examenApellido
+cd ./examenApellido
+mkdir bbdd prog si 
